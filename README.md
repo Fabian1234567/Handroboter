@@ -8,10 +8,10 @@ Mein Projektziel:  Bau eines Roboterarms, dessen Steuerung durch die menschliche
 Normalerweise arbeitet man in Teams, doch mich hat man aufgrund meines Vorwissens in eine Einzelgruppe gesetzt. Als Microkontroller haben wir Arduino Megas genutzt. Meine Dokumentation, Werkstatttagbeücher, Konstruktion, Präsentation und Programm findet man hier. Vielleicht hilft es euch, ein ähnliches Projekt umzusetzen :) .
 
 Meine Noten im Fach: 
-Gesamtbewertung: 14p
-incl. Jahresleistung: 14p
-u. Dokumentation: 11p
-u. Kolloquien: 15p
+- Gesamtbewertung: 14p
+- incl. Jahresleistung: 14p
+- u. Dokumentation: 11p
+- u. Kolloquien: 15p
 
 Ich wünsche euch viel Spaß mit diesem Projekt!
 - If you have any questions please contact me at fabian.exel@gmx.de - 
